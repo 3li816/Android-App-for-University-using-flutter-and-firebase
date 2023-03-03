@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366547491946",
+    "project_id": "bachelor-8f4d9",
+    "storage_bucket": "bachelor-8f4d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366547491946:android:36d3bbe697b66e5d35be13",
+        "android_client_info": {
+          "package_name": "com.example.bachelor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366547491946-smed7iv6mp38mv5uv9dpbacfcoeugc4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPWEtwkqChSjfaR9ezG-cmwx6pSFtuzX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366547491946-smed7iv6mp38mv5uv9dpbacfcoeugc4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
